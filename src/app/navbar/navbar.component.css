@@ -1,0 +1,30 @@
+.navbar-light .navbar-nav .nav-link
+{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link.active-link
+{
+    color: white;
+  
+}
+*{
+  background-color:rgb(17, 17, 103);
+  color: white;
+  font-style: bold;
+  height: 50px;
+  
+}
+.navbar-brand{
+  color: white;
+  font-size: x-large;
+  font-style:normal;
+  font-family:inherit,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.logo-image{
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+}
